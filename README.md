@@ -32,7 +32,8 @@ by letting each person add items and pay their own share in one place.
 - `diagrams/`: process flow images
 
 ## Process flows
-![Host and payment flow](host-payment-flow.png)
+<img width="1520" height="1192" alt="participant-flow" src="https://github.com/user-attachments/assets/6e1ee989-c14c-4733-a3a1-10b268ddee14" />
+
 ![Participant flow](participant-flow.png)
 
 ## Skills shown
