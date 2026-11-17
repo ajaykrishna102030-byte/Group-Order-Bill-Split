@@ -32,8 +32,8 @@ by letting each person add items and pay their own share in one place.
 - `diagrams/`: process flow images
 
 ## Process flows
-![Host and payment flow](diagrams/host-payment-flow.png)
-![Participant flow](diagrams/participant-flow.png)
+![Host and payment flow](host-payment-flow.png)
+![Participant flow](participant-flow.png)
 
 ## Skills shown
 Requirements gathering, BRD writing, user stories and acceptance
