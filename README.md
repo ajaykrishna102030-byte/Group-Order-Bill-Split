@@ -1,3 +1,4 @@
+<img width="1520" height="1192" alt="participant-flow (1)" src="https://github.com/user-attachments/assets/ec502c58-876e-46c9-b504-449115e6fbaf" />
 # Group-Order-Bill-Split
 BRD, user stories, process flows and KPIs for a Group Order &amp; Bill Split feature in a food delivery app (Business Analyst sample project)
 # Group Order & Bill Split: Business Requirements Document
@@ -33,8 +34,8 @@ by letting each person add items and pay their own share in one place.
 
 ## Process flows
 <img width="1520" height="1192" alt="participant-flow" src="https://github.com/user-attachments/assets/6e1ee989-c14c-4733-a3a1-10b268ddee14" />
+<img width="1520" height="1192" alt="participant-flow (1)" src="https://github.com/user-attachments/assets/6530da07-955c-47c7-bb4c-b4b8bf7bd86d" />
 
-![Participant flow](participant-flow.png)
 
 ## Skills shown
 Requirements gathering, BRD writing, user stories and acceptance
